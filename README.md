@@ -7,7 +7,7 @@ Cada estrutura ou tópico está organizada em arquivos separados dentro de `src/
 
 ## Estrutura do projeto
 
-    ```
+```
     src/
     ├── main.rs # Programa principal (teste geral)
     └── bin/
@@ -16,7 +16,7 @@ Cada estrutura ou tópico está organizada em arquivos separados dentro de `src/
     ├── filas.rs # Exercícios sobre filas
     ├── arvores.rs # Exercícios sobre árvores
     └── grafos.rs # Exercícios sobre grafos
-    ```
+```
 
 
 ---
