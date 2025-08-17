@@ -8,6 +8,7 @@ fn main() {
     fila.push_back(1);
     fila.push_back(2);
     fila.push_back(3);
+    fila.push_back(4);
 
     println!("Fila: {:?}", fila);
 
